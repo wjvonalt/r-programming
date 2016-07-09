@@ -1,0 +1,14 @@
+load(kernSmooth)
+load(KernSmooth)
+ls()
+dir()
+getwd()
+?file.path
+file.path("Documents","Coursera","R Programming")
+setwd(file.path("Documents","Coursera","R Programming"))
+get(wd)
+getwd()
+dir()
+bye()
+quit
+exit
